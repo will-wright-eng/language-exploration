@@ -6,6 +6,13 @@
 - languages over tools
 - fundamentals over blind execution
 
+```bash
+sgpt "what skills are 'boot camp' programers lacking compared to computer programmers that have computer science and engineering degrees?"
+```
+```
+Boot camp programmers may lack a deeper understanding of computer science theory and engineering principles compared to those with formal degrees. They may also have less experience with complex algorithms and data structures, as well as a limited understanding of low-level programming languages and hardware architecture. However, boot camp programmers often have practical skills and experience in specific programming languages and technologies that can be valuable in certain industries.
+```
+
 ## selection
 
 > look at stackoverflow survey
@@ -45,17 +52,28 @@ Based on recent job market trends, the most in-demand programming languages in t
 
 ## languages
 
+```bash
+sgpt "which programming languages will make you think differently about how computers work?"
+```
+```
+Languages like Assembly, C, and Rust can make you think differently about how computers work because they require a deeper understanding of the underlying hardware and memory management. Functional programming languages like Haskell and Lisp can also challenge traditional programming paradigms and encourage a different way of thinking about problem-solving.
+```
+
+> create language timeline!
+
 - python
 - javascript (node)
+- bash
 - go
 - java
-- C++
-- bash
-- ruby
 - swift
-- php
 - prolog
 - brainfuck
+- php
+- ruby
+- C++
+- Lua
+	- [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 
 ## projects
 
