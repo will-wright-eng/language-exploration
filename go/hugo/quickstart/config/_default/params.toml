@@ -1,0 +1,24 @@
+# [[menu.main.params.socialIcons]]
+#   name = 'github'
+#   url = 'https://github.com/adityatelange/hugo-PaperMod'
+
+# [params]
+# _merge = 'deep'
+
+# [[params.socialIcons]]
+# [socialIcons]
+# name = "twitter"
+# url = "https://twitter.com/"
+
+# [[params.socialIcons]]
+# name = "stackoverflow"
+# url = "https://stackoverflow.com"
+
+# [[params.socialIcons]]
+# name = "github"
+# url = "https://github.com/"
+
+# [params]
+# [homeInfoParams]
+# Title = "Hi there \U0001F44B"
+# Content = 'Welcome to my blog'
