@@ -11,6 +11,11 @@
 ## blog posts
 
 - [Bit Hacking (with Go code) – Daniel Lemire's blog](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
+- [Case Study: Algorithmic Trading With Go�](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
+
+## tutorials
+
+- [Building a website using Hugo + PaperMod | Kunyang's Blog](https://kyxie.github.io/en/blog/tech/papermod/)
 
 ## links
 
@@ -19,3 +24,29 @@
 - [Installation · adityatelange/hugo-PaperMod Wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)
 - [adityatelange/hugo-PaperMod: A fast, clean, responsive Hugo theme.](https://github.com/adityatelange/hugo-PaperMod)
 - [Quick Start | Hugo](https://gohugo.io/getting-started/quick-start/)
+
+## gpt
+
+### Prompt
+
+```bash
+sgpt --chat go "is there a repl tool for learning golang?" | tee -a "$filepath"
+```
+
+### Response
+
+Yes, there are several REPL (Read-Eval-Print Loop) tools available for learning and experimenting with Go (Golang). Some popular options include:
+
+1. Go Playground: It is an online web-based REPL tool provided by the official Go website. You can access it at https://play.golang.org/. It allows you to write, run, and share Go code snippets directly in your web browser.
+
+2. Go REPL (Gore): Gore is a command-line REPL tool for Go. It provides an interactive environment where you can write and execute Go code on the fly. You can install it using the following command:
+   ```
+   go get github.com/motemen/gore/cmd/gore
+   ```
+
+3. Go REPL (Gorilla REPL): Gorilla REPL is another command-line REPL tool for Go. It offers a more feature-rich and interactive experience compared to the standard Go REPL. You can install it using the following command:
+   ```
+   go get github.com/sbinet/gorilla
+   ```
+
+These tools can be helpful for learning and experimenting with Go code without the need to compile and run a complete Go program.
