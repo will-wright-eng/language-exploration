@@ -24,6 +24,8 @@
 - [Installation · adityatelange/hugo-PaperMod Wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)
 - [adityatelange/hugo-PaperMod: A fast, clean, responsive Hugo theme.](https://github.com/adityatelange/hugo-PaperMod)
 - [Quick Start | Hugo](https://gohugo.io/getting-started/quick-start/)
+- [Go Packages - Go Packages](https://pkg.go.dev/)
+- [Go by Example](https://gobyexample.com/)
 
 ## gpt
 
